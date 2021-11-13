@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DilanRocco
-- 👀 I’m interested in
 - 🌱 I’m currently learning Computer Science at Northaestern University 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dilan(at)piscatello(dot)com
 
 <!---
